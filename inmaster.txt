@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 inmaster
+=======
+inmaster
+change in new branch
+>>>>>>> origin/newbranch
