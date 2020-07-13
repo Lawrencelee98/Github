@@ -1,5 +1,8 @@
 masterfile change
 <<<<<<< HEAD
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/newb
 =======
 >>>>>>> origin/newb
